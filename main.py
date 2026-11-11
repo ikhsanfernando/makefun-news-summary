@@ -19,7 +19,7 @@ Japan's Supreme Court found that a 3.13-to-1 vote disparity in the 2025 upper ho
 
 In Gaza, eight Palestinians were killed in Israeli strikes despite the ceasefire, and winter flooding submerged tents after drainage systems were destroyed. In Italy, 312 schools were evacuated following bomb threats sent by email, and France investigated a cyberattack on cooling facilities.
 
-Among the day's softer stories, Stephanie Case became the first woman to finish the 100-mile Antarctic ultra in 17 hours, 31 minutes and 39 seconds, and Paul McCartney was named the third-richest musician, with a fortune Forbes put at 1.4 billion dollars."""
+Among the day's softer stories, Stephanie Case became the first woman to finish the 100-mile Antarctic ultra in 17 hours, 31 minutes and 39 seconds, and Forbes named Paul McCartney the third-richest musician, with a fortune Forbes put at 1.4 billion dollars."""
 
 
 def main():
