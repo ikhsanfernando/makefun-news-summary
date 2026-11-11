@@ -23,8 +23,9 @@ Among the day's softer stories, Stephanie Case became the first woman to finish 
 
 
 def main():
-    os.makedirs("/output", exist_ok=True)
-    with open("/output/entry.txt", "w", encoding="utf-8") as entry:
+    output_dir = os.environ.get("MAKEFUN_OUTPUT_DIR") or "/output"
+    os.makedirs(output_dir, exist_ok=True)
+    with open(os.path.join(output_dir, "entry.txt"), "w", encoding="utf-8") as entry:
         entry.write(SUMMARY)
 
 
